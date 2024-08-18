@@ -2,7 +2,7 @@
 title: Welcome to my test
 ---
 
-This is a blank Quartz installation. I am just using it for testing purposes for now.
+This is a blank Quartz installation. I am just using it for testing purposes for now. I started with a [[some title for the first note|first note]].
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
