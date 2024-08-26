@@ -6,7 +6,7 @@
 > DDC:: 
 > ZettelkastenCode:: 
 > source:: 
-> tags:: 
+> tags:: #research #UAUIM 
 
 ---
 # χάρτης
@@ -18,10 +18,11 @@
 ### documente pentru concurs
 
 ### documente complementare
-- [[Mădălina discuție 240822]]
+- [[FFCSU 2024 Mădălina discuție 240822]]
 - [[FFCSU 2024 note 240819]]
 - [[FFCSU 2024 discutie Francoise 240826]]
 - [[FFCSU 2024 forma preliminara]]
+- [[FFCSU 2024 meeting 240826]]
 
 # the idea
 ## anacrusis
@@ -29,7 +30,6 @@
 	- descărcat aici [2024 UAUIM FFCSU](file:///D:%5CMyCloud%5C_doctorat_%5C01%20lucru%5C06%20articole%20in%20lucru%5C2024%20UAUIM%20FFCSU)
 	- de analizat, termenul e foarte curând!
 		- 2 septembrie 2024, ora 10
-
 ## bucket
 - poate susțin DST Talks, să verific dacă există pe YouTube
 - un canal YouTube pentru laboratorul [LCDI](https://lcdi.uauim.ro/)? există!
