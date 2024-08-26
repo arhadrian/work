@@ -1,6 +1,9 @@
 ---
 title: Welcome to my test
 ---
+The most important component in this preliminary publication is my [[FFCSU 2024]] project.
+
+---
 
 This is a blank Quartz installation. I am just using it for testing purposes for now. I started with a [[some title for the first note|first note]].
 
