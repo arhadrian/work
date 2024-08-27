@@ -19,10 +19,12 @@
 
 ### documente complementare
 - [[FFCSU 2024 Mădălina discuție 240822]]
+- [[FFCSU 2024 echipa]]
 - [[FFCSU 2024 note 240819]]
 - [[FFCSU 2024 discutie Francoise 240826]]
 - [[FFCSU 2024 forma preliminara]]
 - [[FFCSU 2024 meeting 240826]]
+- pe hdd, pentru publicare, [FFCSU](file:///D:%5C_PKM-Obsidian_%5CObsidian-Adrian-GitHub%5CObsidian-Quartz-test-1%5CAdrian%5CFFCSU)
 
 # the idea
 ## anacrusis
@@ -44,13 +46,18 @@
 	- With interface that works just like your favourite desktop applications, you don't need to keep switching over webpages to get simple things done.
 	- Just login to your database and manage your database as if your are working on your desktop!
 	- see [here](https://core7.spatiul.ro:2083/cpsess9173018994/frontend/jupiter/softaculous/index.live.php?act=software&soft=341)
+- link-uri temporare astăzi, [[2024.08.26]]
+	- [personal UAUIM](https://www.uauim.ro/bio/)
+	- prima pagină UAUIM, pentru [departamente](https://www.uauim.ro/)
+	- 
 ## întrebări Adrian Ibric
-- pot propune încadrarea în două domenii de finanțare, cu unul principal? cum formulez?
-- ce reprezintă „cercetători și personal auxiliar de cercetare susținuți”?
+- pot propune încadrarea în două domenii de finanțare, cu unul principal? cum formulez? pot propune un domeniu principal și un al doilea secundar, ca în cazul meu
 - la V.k., nu avem timp să publicăm în cadrul proiectului; se admit doar stadii de rezumate acceptate? (eu nu voi putea trimite, însă, nicăieri SCOPUS... vezi broșura mai întâi)
 - Școala Doctorală poate fi considerată departament în contextul proiectului, la 
 ## întrebări pentru mine
 - ce înseamnă profil nou creat Scopus și WoS? am deja profile acolo, cred... Popularea unui profil poate fi considerată un profil nou creat? Unde se marchează data creării profilului?
+- aș putea să pornesc o documentare în general pentru asta, în [[o660 papers]] sau ceva similar
+- ce reprezintă „cercetători și personal auxiliar de cercetare susținuți”? ce înseamnă susținuți? să o întreb pe Oana și să verific în rezultate, raportări etc.
 
 ---
 # footer

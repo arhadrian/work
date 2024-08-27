@@ -1,12 +1,12 @@
 > [!abstract]- header
-> context:: 
+> context:: [[FFCSU 2024]]
 > date:: 2024.08.26
 > time:: 16:31
 > connections:: 
 > DDC:: 
 > ZettelkastenCode:: 
 > source:: 
-> tags:: 
+> tags:: #research 
 
 ---
 # χάρτης
