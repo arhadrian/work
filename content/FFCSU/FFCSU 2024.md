@@ -18,13 +18,15 @@
 ### documente pentru concurs
 
 ### documente complementare
-- [[FFCSU 2024 Mădălina discuție 240822]]
-- [[FFCSU 2024 echipa]]
-- [[FFCSU 2024 note 240819]]
-- [[FFCSU 2024 discutie Francoise 240826]]
 - [[FFCSU 2024 forma preliminara]]
-- [[FFCSU 2024 meeting 240826]]
+	- [[FFCSU 2024 note 240819]]
+- [[FFCSU 2024 echipa]]
+	- [[FFCSU 2024 Mădălina discuție 240822]]
+	- [[FFCSU 2024 discutie Francoise 240826]]
+	- [[FFCSU 2024 meeting 240826]]
 - pe hdd, pentru publicare, [FFCSU](file:///D:%5C_PKM-Obsidian_%5CObsidian-Adrian-GitHub%5CObsidian-Quartz-test-1%5CAdrian%5CFFCSU)
+	- vault Obsidian separat, vezi în listă
+	- site-ul publicat aici, [my first Obsidian vault site](https://arhadrian.github.io/work/)
 
 # the idea
 ## anacrusis

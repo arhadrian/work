@@ -29,19 +29,18 @@
 	- C. Training laboratoare UAUIM, creșterea competențelor și perfecționarea personalului UAUIM
 	- H. Cercetare strategică și dezvoltarea cercetării în UAUIM (altele față de cele de mai sus).
 - buget propus
-	- vezi...
+	- vezi [[FFCSU 2024 buget]]
 - durata proiectului
 	- 3 luni
 - departamente implicate
-	- vezi...
-	- [[FFCSU 2024 echipa]]
+	- vezi [[FFCSU 2024 echipa]]
 ## B. Descrierea proiectului
-- scopul
-- obiectivele
-- justificarea necesității
-- descrierea activităților
-- rezultate și indicatori
-- experiența directorului
+- scopul, [[FFCSU 2024 scop]]
+- obiectivele, [[FFCSU 2024 obiective]]
+- justificarea necesității [[FFCSU 2024 necesitate]]
+- descrierea activităților [[FFCSU 2024 activitati]]
+- rezultate și indicatori [[FFCSU 2024 rezultate]]
+- experiența directorului [[FFCSU 2024 experienta]]
 ## C. Bugetul proiectului
 ### I. Cheltuieli de personal
 
