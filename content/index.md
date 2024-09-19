@@ -1,7 +1,7 @@
 ---
 title: Welcome to my test
 ---
-The most important component in this preliminary publication is my [[FFCSU 2024]] project.
+The most important component in this preliminary publication is my [[FFCSU 2024]] project, but this is not available here.
 
 ---
 
