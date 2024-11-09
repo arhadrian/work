@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Adrian's Obsidian test",
+    pageTitle: "platforma OPeRA, v.0.1",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -91,3 +91,8 @@ const config: QuartzConfig = {
 }
 
 export default config
+graph: {
+  local: true, // Enable local graph
+  global: true, // Enable global graph
+  }
+  
