@@ -25,8 +25,12 @@ title: Bun venit pe pagina de test a platformei OPeRA
 The most important component in this preliminary publication is my [[FFCSU 2024]] project.
 
 > [!abstract]- another header
-> I can write here
-> and here
+> I can write here  
+> and here  
+
+
+
+
 
 
 ---
