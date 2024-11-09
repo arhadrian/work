@@ -13,8 +13,6 @@ title: Bun venit pe pagina de test a platformei OPeRA
 > tags::  
 
 
-
-
 ---
 # cuprins
 ## componente interne
@@ -23,9 +21,8 @@ title: Bun venit pe pagina de test a platformei OPeRA
 ```
 
 ## componente externe
-
 ### câteva idei
-
+- încă nu avem componente externe aici
 # un sistem personal de gestiune a cunoștințelor - PKMS
 ## introducere
 Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1] Am început să lucrez la personalizare tot astăzi, [[2024.11.09]]

@@ -90,8 +90,4 @@ const config: QuartzConfig = {
   },
 }
 
-export default config
-  {
-    custom_css: "Adrian.css"
-  }
-  
+export default config  
