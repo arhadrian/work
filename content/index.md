@@ -5,11 +5,13 @@ title: Bun venit pe pagina de test a platformei OPeRA
 > context:: index note, start point  
 > date:: 2024.11.09  
 > time:: 20:06  
-> connections::   
-> DDC::   
+> connections::  
+> DDC::  
 > ZettelkastenCode::  
-> source::   
+> source::  
 > tags::  
+
+
 
 ---
 # χάρτης
