@@ -1,12 +1,7 @@
----
-title: 
-draft: false
-tags:
----
 > [!abstract]- header
 > context:: 
-> date:: 2024.11.09
-> time:: 20:05
+> date:: {{date:YYYY.MM.DD}}
+> time:: {{time:HH:mm}}
 > connections:: 
 > DDC:: 
 > ZettelkastenCode:: 

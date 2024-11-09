@@ -24,7 +24,7 @@ tags:
 
 # the idea
 
-idea note text
+Just go back to the [[content/index|index]]
 
 
 ---
