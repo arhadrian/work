@@ -1,0 +1,5 @@
+site:
+  title: "prototip platformă OPeRA"
+  description: "componentă în testare"
+  baseurl: "/"
+  author: "Adrian"
