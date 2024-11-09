@@ -24,6 +24,11 @@ title: Bun venit pe pagina de test a platformei OPeRA
 
 The most important component in this preliminary publication is my [[FFCSU 2024]] project.
 
+> [!abstract]- another header
+> I can write here
+> and here
+
+
 ---
 
 I started the test with a [[some title for the first note|first note]]. See this too, [[let us see]].
