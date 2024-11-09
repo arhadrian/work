@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Created by Adrian, ©2024
+          ©2024 Created by Adrian for OPeRA. All rights reserved.
         </p>
         
       </footer>
