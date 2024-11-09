@@ -2,14 +2,14 @@
 title: Bun venit pe pagina de test a platformei OPeRA
 ---
 > [!abstract]- header
-> context:: index note, start point
-> date:: 2024.11.09
-> time:: 20:06
-> connections:: 
-> DDC:: 
-> ZettelkastenCode:: 
-> source:: 
-> tags:: 
+> context:: index note, start point  
+> date:: 2024.11.09  
+> time:: 20:06  
+> connections::   
+> DDC::   
+> ZettelkastenCode::  
+> source::   
+> tags::  
 
 ---
 # χάρτης
