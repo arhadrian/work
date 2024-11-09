@@ -2,15 +2,18 @@
 title: Bun venit pe pagina de test a platformei OPeRA
 ---
 
-> [!abstract]- antet
-> context:: 
-> data:: 2024.11.09
-> ora:: 21:23
-> conexiuni:: 
-> DDC:: 
-> ZettelkastenCode:: 
-> sursa:: 
-> tags:: 
+> [!abstract]- antet  
+> context::  
+> data:: 2024.11.09  
+> ora:: 21:23  
+> conexiuni::  
+> DDC::  
+> ZettelkastenCode::  
+> sursa::  
+> tags::  
+
+
+
 
 ---
 # cuprins

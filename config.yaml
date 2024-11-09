@@ -3,3 +3,6 @@ site:
   description: "componentă în testare"
   baseurl: "/"
   author: "Adrian"
+markdown:
+  hard_wrap: true
+  smartypants: true

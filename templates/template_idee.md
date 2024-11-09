@@ -1,12 +1,14 @@
-> [!abstract]- antet
-> context:: 
-> data:: {{date:YYYY.MM.DD}}
-> ora:: {{time:HH:mm}}
-> conexiuni:: 
-> DDC:: 
-> ZettelkastenCode:: 
-> sursa:: 
-> tags:: 
+> [!abstract]- antet  
+> context::  
+> data:: {{date:YYYY.MM.DD}}  
+> ora:: {{time:HH:mm}}  
+> conexiuni::  
+> DDC::  
+> ZettelkastenCode::  
+> sursa::  
+> tags::  
+
+
 
 ---
 # cuprins
