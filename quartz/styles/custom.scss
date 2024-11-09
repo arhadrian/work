@@ -1,25 +1,3 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-
-// Adrian, am adăugat câte ceva
-
-/* Custom Headings */
-h1, h2, h3, h4, h5, h6 {
-    /* font-family: "Your Custom Font", sans-serif; */
-    /* font-weight: bold; /* Adjust weight as needed */
-    color: #ddc582; /* Example color, replace with your preferred color */
-  }
-  
-  /* Italics Style */
-  em, i {
-    font-style: italic;
-    color: #89e752; /* Example color */
-  }
-  
-  /* Bold Text Style */
-  strong, b {
-    font-weight: 700; /* Adjust boldness level */
-    color: #b84949; /* Example color */
-  }
-  
