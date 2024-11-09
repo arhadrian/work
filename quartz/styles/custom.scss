@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Custom styles for headings */
+h1 {
+    color: #ff6347; /* Change this to your desired color for H1 headings */
+}
+
+h2 {
+    color: #4682b4; /* Change this to your desired color for H2 headings */
+}
+
+h3 {
+    color: #32cd32; /* Change this to your desired color for H3 headings */
+}
+
+/* Custom styles for italic text */
+em, i {
+    color: #ff6347 !important; /* Change this to your desired color for italic text */
+    font-style: italic !important;
+}
+
+/* Custom styles for bold text */
+strong, b {
+    color: #4682b4 !important; /* Change this to your desired color for bold text */
+    font-weight: bold !important;
+}
