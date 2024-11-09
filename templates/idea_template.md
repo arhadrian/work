@@ -9,7 +9,7 @@
 > tags:: 
 
 ---
-# χάρτης
+# contents
 ## internal components
 ```table-of-contents
 ```
@@ -25,11 +25,11 @@ idea note text
 ---
 # footer
 ---
-## μ: metatext
+## metatext
 
 
 ---
-## π: References and Resources
+## References and Resources
 
 ---
 

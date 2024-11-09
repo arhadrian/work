@@ -14,38 +14,28 @@ title: Bun venit pe pagina de test a platformei OPeRA
 
 
 ---
-# χάρτης
+
+# contents
 ## internal components
 
 ```table-of-contents
 ```
-
-
 ## externally connected components
 
 
-# the idea
+# ideea
 
-The most important component in this preliminary publication is my [[FFCSU 2024]] project.
+## introducere
+Punctul de pornire în structura platformei, versiunea 0.1
+## sistem personal: eu
 
-> [!abstract]- another header
-> I can write here  
-> and here  
-
-
+Prezentarea de luni începe în jurnalul de luni, [[2024.11.11]].
 
 
 
 
----
-
-I started the test with a [[some title for the first note|first note]]. See this too, [[let us see]].
-
-
-
-Signed: Adrian,
-
-today, [[2024.08.18]], at 20:07
+semnat: Adrian,
+astăzi, [[2024.08.18]], la ora 20:07
 
 
 ---
