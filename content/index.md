@@ -14,8 +14,10 @@ title: Bun venit pe pagina de test a platformei OPeRA
 ---
 # χάρτης
 ## internal components
+
 ```table-of-contents
 ```
+
 
 ## externally connected components
 
