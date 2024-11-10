@@ -20,7 +20,7 @@ tags:
   
 # 1st summary: main classes  
   
-[[#000 ___ General ___]]    
+[[o500 DDC#000 ___ General ___|000 ___ General ___]]    
 [[#100 ___ Philosophy ___]]    
 [[#200 ___ Religion ___]]    
 [[#300 ___ Social sciences ___]]    
@@ -30,7 +30,7 @@ tags:
 [[#700 ___ Arts ___]]    
 [[#800 ___ Literature ___]]    
 [[#900 ___ History and Geography ___]]    
-
+  
 ---    
 # 2nd summary: divisions    
   
