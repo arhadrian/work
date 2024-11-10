@@ -30,10 +30,11 @@ Principalele **componente** sunt:
 	- date, componente și conexiuni generale - [[platforma OPeRA]]
 	- sistemul TUA_IDEM de clasare a informațiilor - [[OPeRA TUAIDEM]]
 
-|                | [[OPeRA U\|U]]   |                |
-| -------------- | ---------------- | -------------- |
-| [[OPeRA T\|T]] | [[OPeRA AI\|AI]] | [[OPeRA M\|M]] |
-|                | [[OPeRA DE\|DE]] |                |
+|    (teorie)    |    (practică)    | (materialitate) |
+|:--------------:|:----------------:|:---------------:|
+|                |  [[OPeRA U\|U]]  |                 |
+| [[OPeRA T\|T]] | [[OPeRA AI\|AI]] | [[OPeRA M\|M]]  |
+|                | [[OPeRA DE\|DE]] |                 |
 
 
 ---
