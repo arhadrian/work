@@ -21,6 +21,8 @@ tags:
 - [vault publicat pe Internet](https://arhadrian.github.io/work/)
 - test de lucru: [[142.500 Fenomenologie temp]]
 # sistem personal de gestiune a cunoștințelor - PKMS
+realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)
+![[OPeRA-logo-350.png|200]]
 ## introducere
 Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1].
 ## conținut
