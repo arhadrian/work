@@ -14,23 +14,18 @@ title: platforma OPeRA - test
 
 
 ---
-# cuprins
-## componente interne
-*(disponibil doar off-line)*
-```table-of-contents
-```
-
-## componente externe
-### câteva idei
-- *încă nu avem componente externe aici*
-- test 11, edited heading styles; uncommented use base.scss in custom.scss
+# componente externe
+## primele conexiuni
+- [[142.500 Fenomenologie temp]]
 # sistem personal de gestiune a cunoștințelor - PKMS
 ## introducere
-Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1] Am început să lucrez la personalizare tot astăzi, [[2024.11.09]]
-## eu
-Pentru că este un "sistem personal", este centrat pe propria persoană și propriile studii.
+Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1] Am început să lucrez la personalizare tot astăzi, [[2024.11.09]].
 ## conținut
 Prezentarea de luni începe în jurnalul de luni, [[2024.11.11]].
+Principalele componente sunt:
+- sistemele PKM - [[001.450 PKM]]
+- mediateca, în sistem DDC [[o500 DDC]]
+- platforma digitală de managementul cunoștințelor, modul în cadrul proiectului OPeRA
 
 
 ---
