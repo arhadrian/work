@@ -16,6 +16,7 @@ title: platforma OPeRA - test
 ---
 # componente externe
 ## primele conexiuni
+- [vault publicat pe Internet]()
 - [[142.500 Fenomenologie temp]]
 # sistem personal de gestiune a cunoștințelor - PKMS
 ## introducere

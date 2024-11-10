@@ -1,7 +1,7 @@
 site:
   title: "prototip platformă OPeRA"
   description: "componentă în testare"
-  baseurl: "/"
+  baseurl: "/work"
   author: "Adrian"
 markdown:
   hard_wrap: true
