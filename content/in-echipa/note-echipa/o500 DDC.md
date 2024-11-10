@@ -12,7 +12,7 @@ tags:
 > DDC::  
 > ZettelkastenCode::  
 > sursa::  
-> tags::    
+> tags:: #DDC  
   
 ---  
 # componente externe  
