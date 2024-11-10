@@ -21,19 +21,19 @@ tags:
 - *(vom sintetiza într-un microeseu)*  
 # componentele  
 ## T - Teorie  
-- nota principală: [[OPeRA T]]  
+- nota principală: [[-OPeRA T]]  
 -   
 ## U - Urbanism  
-- nota principală: [[OPeRA U]]  
+- nota principală: [[-OPeRA U]]  
 -   
 ## AI - Arhitectură și Arhitectură de Interior  
-- nota principală: [[OPeRA AI]]  
+- nota principală: [[-OPeRA AI]]  
 -   
 ## DE - Detaliere pentru Execuție  
-- nota principală: [[OPeRA DE]]  
+- nota principală: [[-OPeRA DE]]  
 -   
 ## Materiale  
-- nota principală: [[OPeRA M]]  
+- nota principală: [[-OPeRA M]]  
 - bază de cunoștințe care cuprinde și o bază de date cu materialele din DST Lab  
 
 

@@ -1,1 +1,1 @@
-Notă de lucru [[OPeRA]].
+Notă de lucru [[OPeRA lui Mihai]].

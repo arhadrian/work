@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 > [!abstract]- antet  
-> context:: [[140 Philosophical schools]]  
+> context:: [[-OPeRA TUAIDEM]]  
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
@@ -15,17 +15,13 @@ tags:
 
 
 ---
+# componente externe  
+  
 
-# componente externe
-
-
-# Fenomenologie
-## aspecte generale  
-text  
-## note în lucru  
-- [[142.500 Fenomenologie temp]]  
+# OPeRA T - Teorie  
 
   
+
 ---
 # subsolul notei
 ---

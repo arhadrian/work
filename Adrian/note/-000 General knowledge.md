@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 > [!abstract]- antet  
-> context:: [[o500 DDC]]  
+> context:: [[-o500 DDC]]  
 > data:: 2024.11.10  
 > ora:: 14:13  
 > conexiuni::  
@@ -28,7 +28,7 @@ tags:
 001.410 Disciplines  
 001.420 Multidisciplinarity and Interdisciplinarity  
 [[001.430 Transdisciplinarity and Metadisciplinarity]]  
-[[001.450 PKM]]  
+[[-001.450 PKM]]  
 001.500 Comparatism  
 002 The book  
 003 Systems  

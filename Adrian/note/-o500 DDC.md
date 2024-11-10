@@ -20,7 +20,7 @@ tags:
   
 # 1st summary: main classes  
   
-[[o500 DDC#000 ___ General ___|000 ___ General ___]]    
+[[-o500 DDC#000 ___ General ___|000 ___ General ___]]    
 [[#100 ___ Philosophy ___]]    
 [[#200 ___ Religion ___]]    
 [[#300 ___ Social sciences ___]]    
@@ -37,7 +37,7 @@ tags:
 ## 000 ___ General ___    
 [[#1st summary: main classes|up]]    
   
-[[000 General knowledge]]    
+[[-000 General knowledge]]    
 [[010 Bibliographies]]    
 [[020 Library]]    
 [[030 Encyclopedias]]    
@@ -56,7 +56,7 @@ tags:
 [[110 Metaphysics]]    
 [[120 Epistemology]]    
 130 Parapsychology    
-[[140 Philosophical schools]]    
+[[-140 Philosophical schools]]    
 [[150 Psychology]]    
 [[160 Philosophical logic]]    
 170 Ethics    
