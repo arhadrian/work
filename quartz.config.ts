@@ -15,7 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    //baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "arhadrian.github.io/work",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
