@@ -3,10 +3,10 @@ title: platforma OPeRA - test
 ---
 
 > [!abstract]- antet  
-> context::  __fără context__, pagină de pornire
+> context::  __fără context__, pagină de pornire  
 > data:: 2024.11.09  
 > ora:: 21:23  
-> conexiuni::  *(pe același nivel)*
+> conexiuni::  *(pe același nivel)*  
 > DDC::  
 > ZettelkastenCode::  
 > sursa::  
