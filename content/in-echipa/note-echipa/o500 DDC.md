@@ -20,7 +20,7 @@ tags:
   
 # 1st summary: main classes  
   
-[[o500 DDC#000 ___ General ___|000 ___ General ___]]    
+[[#000 General]]    
 [[#100 ___ Philosophy ___]]    
 [[#200 ___ Religion ___]]    
 [[#300 ___ Social sciences ___]]    
@@ -34,7 +34,7 @@ tags:
 ---    
 # 2nd summary: divisions    
   
-## 000 ___ General ___    
+## 000 General  
 [[#1st summary: main classes|up]]    
   
 [[000 General knowledge]]    
@@ -49,7 +49,7 @@ tags:
 [[090 Manuscripts]]    
   
 ---    
-## 100 ___ Philosophy ___     
+## 100 Philosophy  
 [[#1st summary: main classes|up]]    
   
 [[100 Philosophy]]    
@@ -64,7 +64,7 @@ tags:
 [[190 Modern western philosophy]]    
   
 ---    
-## 200 ___ Religion ___     
+## 200 Religion     
 [[#1st summary: main classes|up]]    
   
 [[200 Religion]]    
@@ -79,7 +79,7 @@ tags:
 290 Other religions    
   
 ---    
-## 300 ___ Social sciences ___    
+## 300 Social sciences   
 [[#1st summary: main classes|up]]    
   
 [[300 Social sciences and sociology]]    
@@ -95,7 +95,7 @@ tags:
 390 Customs and folklore  
   
 ---  
-## 400 ___ Languages ___  
+## 400 Languages  
 [[#1st summary: main classes|up]]  
   
 [[400 Language]]  
@@ -110,7 +110,7 @@ tags:
 [[490 Other languages]]  
   
 ---  
-## 500 ___ Sciences ___  
+## 500 Sciences  
 [[#1st summary: main classes|up]]  
   
 [[500 Science]]  
@@ -125,7 +125,7 @@ tags:
 590 Zoology  
   
 ---  
-## 600 ___ Technology ___  
+## 600 Technology  
 [[#1st summary: main classes|up]]  
   
 600 Technology  
@@ -141,7 +141,7 @@ tags:
   
 ---  
   
-## 700 ___ Arts ___  
+## 700 Arts  
 [[#1st summary: main classes|up]]  
   
 700 Arts  
@@ -157,7 +157,7 @@ tags:
   
 ---  
   
-## 800 ___ Literature ___  
+## 800 Literature  
 [[#1st summary: main classes|up]]  
   
 [[800 Literature and criticism]]  
@@ -173,7 +173,7 @@ tags:
   
 ---  
   
-## 900 ___ History and Geography ___  
+## 900 History and Geography  
 [[#1st summary: main classes|up]]  
   
 900 History  
