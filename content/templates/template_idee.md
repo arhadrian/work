@@ -1,13 +1,17 @@
+---
+title: 
+draft: false
+tags:
+---
 > [!abstract]- antet  
 > context::  
-> data:: {{date:YYYY.MM.DD}}  
-> ora:: {{time:HH:mm}}  
+> data:: 2024.11.10  
+> ora:: 14:13  
 > conexiuni::  
 > DDC::  
 > ZettelkastenCode::  
 > sursa::  
 > tags::  
-
 
 
 ---
@@ -29,4 +33,5 @@ text
 ---
 ## note de subsol
 ---
+
 
