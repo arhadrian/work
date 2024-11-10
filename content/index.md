@@ -1,5 +1,5 @@
 ---
-title: Bun venit pe pagina de test a platformei OPeRA
+title: platforma OPeRA - test
 ---
 
 > [!abstract]- antet  
