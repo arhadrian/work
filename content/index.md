@@ -19,7 +19,7 @@ tags:
 # componente externe
 ## primele conexiuni
 - [vault publicat pe Internet](https://arhadrian.github.io/work/)
-- 
+- test de lucru: [[142.500 Fenomenologie temp]]
 # sistem personal de gestiune a cunoștințelor - PKMS
 ## introducere
 Acesta este un posibil punct de **pornire** în structura platformei digitale [OPeRA](https://opera-phd.org/), versiunea 0.1[^1].

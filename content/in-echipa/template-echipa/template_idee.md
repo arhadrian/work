@@ -5,8 +5,8 @@ tags:
 ---
 > [!abstract]- antet  
 > context::  
-> data:: 2024.11.10  
-> ora:: 14:13  
+> data:: {{date:YYYY.MM.DD}}  
+> ora:: {{time:HH:mm}}  
 > conexiuni::  
 > DDC::  
 > ZettelkastenCode::  
