@@ -17,24 +17,24 @@ tags:
 ---
 
 # componente externe
-
+  
 
 # sections and subsections
+  
+142.100 Kantianism and Neo-Kantianism  
+[[142.500 Phenomenology]]  
+149.900 Structuralism  
+149.980 Holism  
 
-142.100 Kantianism and Neo-Kantianism
-[[142.500 Phenomenology]]
-149.900 Structuralism
-149.980 Holism
+  
+---  
+# subsolul notei  
+---  
+## referințe și resurse  
+  
 
-
----
-# subsolul notei
----
-## referințe și resurse
-
-
----
-## note de subsol
----
-
+---  
+## note de subsol  
+---  
+  
 

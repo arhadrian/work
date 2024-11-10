@@ -16,12 +16,12 @@ tags:
 
 ---
 
-# componente externe
+# componente externe  
 
-
-# OPeRA DE - Detaliere pentru Execuție
-
-text
+  
+# OPeRA DE - Detaliere pentru Execuție  
+  
+text  
 
 
 ---

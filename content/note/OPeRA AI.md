@@ -16,12 +16,12 @@ tags:
 
 ---
 
-# componente externe
+# componente externe  
 
+  
+# OPeRA AI - Arhitectură și Arhitectură de Interior  
 
-# OPeRA AI - Arhitectură și Arhitectură de Interior
-
-text
+text  
 
 
 ---

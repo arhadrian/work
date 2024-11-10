@@ -36,7 +36,7 @@ tags:
   
 ## 000 ___ General ___    
 [[#1st summary: main classes|up]]    
-    
+  
 [[000 General knowledge]]    
 [[010 Bibliographies]]    
 [[020 Library]]    

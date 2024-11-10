@@ -15,12 +15,12 @@ tags:
 
 
 ---
-# componente externe
+# componente externe  
+  
 
+# OPeRA T - Teorie  
 
-# OPeRA T - Teorie
-
-
+  
 
 ---
 # subsolul notei

@@ -16,14 +16,14 @@ tags:
 
 ---
 
-# componente externe
+# componente externe  
+  
 
+# OPeRA U - Urbanism  
 
-# OPeRA U - Urbanism
+text  
 
-text
-
-
+  
 ---
 # subsolul notei
 ---

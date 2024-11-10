@@ -16,14 +16,14 @@ tags:
 
 ---
 
-# componente externe
+# componente externe  
 
+  
+# OPeRA M - Materiale  
 
-# OPeRA M - Materiale
+text  
 
-text
-
-
+  
 ---
 # subsolul notei
 ---
