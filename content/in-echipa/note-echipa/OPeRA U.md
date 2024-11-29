@@ -20,8 +20,10 @@ tags:
   
 
 # OPeRA U - Urbanism  
+## referințe în platformă (LZ)
 
-text  
+## note de lucru (FZ)
+- [[agricultura urbana]]
 
   
 ---
