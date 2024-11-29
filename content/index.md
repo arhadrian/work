@@ -19,8 +19,9 @@ tags:
 # componente externe
 ## primele conexiuni
 - [vault publicat pe Internet](https://arhadrian.github.io/work/)
+- [wiki publicat pe Internet](https://opera.tiddlyhost.com/)
 - test de lucru: [[142.500 Fenomenologie temp]]
-- note pentru astăzi, despre [[sisteme PKM]]
+- note provizorii despre [[sisteme PKM]]
 - îndrumare disertații [[disertatie]]
 # sistem personal de gestiune a cunoștințelor - PKMS
 realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)

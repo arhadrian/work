@@ -32,6 +32,7 @@ tags:
 - [Joplin](https://joplinapp.org/) (în loc de Evernote)
 - [FreeMind](https://sourceforge.net/projects/freemind/) (la SourceForge) (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?hl=en-us&gl=US) )
 - [Miro](https://miro.com/)
+- [Concepts](https://concepts.app/en/), (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9ngqm8fph9wq?launch=true&mode=full&hl=en-us&gl=ro&ocid=bingwebsearch))
 ## sisteme PKM  
 - [Notion](https://www.notion.so)
 - etc.
