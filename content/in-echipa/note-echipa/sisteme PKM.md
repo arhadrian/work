@@ -16,28 +16,26 @@ tags:
 
 ---
 
-# componente externe
-- (nu tocmai componentă, doar un link la  [[content/index|pagina de pornire]])
+# componente externe  
+- (nu tocmai componentă, doar un link la  [[content/index|pagina de pornire]])  
 
-# instrumente, platforme, sisteme...
-
-- Apple Notes
-- Google Docs (cu link-uri - [Oana și Adrian](https://drive.google.com/drive/u/0/folders/1RFZHsDMVZGFm8p9TPzXQaN7MeGoZrUWB))
+# instrumente, platforme, sisteme...  
+## software editare (în general)
+- Apple Notes (links)
+- Google Docs (cu link-uri)
 - MS Office, LibreOffice...
+## sisteme note taking, wikis, mindmapping  
 - Sisteme wiki, tiddlywiki cu [tiddlyhost](https://opera.tiddlyhost.com/)
-- Digital gardens
-- Joplin (în loc de Evernote)
-- FreeMind
-- Notion
+	- cont gratuit [tiddlyhost](https://tiddlyhost.com/)
+	- pentru test pe wiki-ul de mai sus, putem oferi user (research@opera-phd.org) și parolă (Noiembrie2024)
+- Digital gardens...
+- [Joplin](https://joplinapp.org/) (în loc de Evernote)
+- [FreeMind](https://sourceforge.net/projects/freemind/) (la SourceForge) (inclusiv în [Microsoft Store](https://apps.microsoft.com/detail/9nj0r2c43f8d?hl=en-us&gl=US) )
+- [Miro](https://miro.com/)
+## sisteme PKM  
+- [Notion](https://www.notion.so)
 - etc.
-- Obsidian
-
-Scriu.
-
-# Idee
-## intro
-trelșkjsdklj sdkjfdhs 
-link către J[[sisteme PKM]]
+- [Obsidian](https://obsidian.md/)
 
 
 ---

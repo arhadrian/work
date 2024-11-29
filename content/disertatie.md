@@ -22,15 +22,24 @@ tags:
 # instrumente pentru pregătirea disertației  
 ## timeline  
 - integrare simplă în platforma de lucru aleasă
+	- *(în principiu, un simplu grafic liniar este suficient)*
 - programe PM dedicate
 	- [Ganttproject](https://www.ganttproject.biz/)
+	- [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-free-project-management-software-open-source)
 	- MS Project (proprietar, licență scumpă)
 
 ## structură  
 
 
-## bibliografie  
+## documentație
 
+
+## redactare
+- [[sisteme PKM]]
+
+## bibliografie  
+- [Zotero](https://www.zotero.org/)
+- 
 
 
 
