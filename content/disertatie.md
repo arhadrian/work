@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 > [!abstract]- antet  
-> context::  [[content/index|index]]
+> context::  [[content/index|index]]  
 > data:: 2024.11.29  
 > ora:: 14:03  
 > conexiuni::  
