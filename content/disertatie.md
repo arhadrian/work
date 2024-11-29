@@ -23,7 +23,9 @@ tags:
 ## timeline  
 - integrare simplă în platforma de lucru aleasă
 - programe PM dedicate
-	- 
+	- [Ganttproject](https://www.ganttproject.biz/)
+	- MS Project (proprietar, licență scumpă)
+
 ## structură  
 
 
