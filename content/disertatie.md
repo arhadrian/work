@@ -19,14 +19,16 @@ tags:
 # componente externe
 
 
-# instrumente pentru pregătirea disertației
-## timeline
+# instrumente pentru pregătirea disertației  
+## timeline  
 - integrare simplă în platforma de lucru aleasă
 - programe PM dedicate
 	- 
-## structură
+## structură  
 
-## bibliografie
+
+## bibliografie  
+
 
 
 
