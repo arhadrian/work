@@ -22,6 +22,7 @@ tags:
 - [wiki publicat pe Internet](https://opera.tiddlyhost.com/)
 - test de lucru: [[142.500 Fenomenologie temp]]
 - note provizorii despre [[sisteme PKM]]
+- test [[DST Lab MatDB]]
 - îndrumare disertații [[disertatie]]
 # sistem personal de gestiune a cunoștințelor - PKMS
 realizat în cadrul proiectului [**OPeRA**](https://opera-phd.org/)
